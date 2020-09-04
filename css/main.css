@@ -1,0 +1,18 @@
+@import url("https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@300;500;700&family=Montserrat:wght@300;400;700&display=swap");
+
+body {
+    
+    font-family: 'Montserrat', sans-serif;
+    line-height: 1.8rem;
+    background-color: #C8E6C9;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+#hero {
+    background-image: url('/img/smoothie-1444371_2000px_crop.jpg');
+    height: 34em;
+    background-size: cover;
+}
